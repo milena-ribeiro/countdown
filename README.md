@@ -1,4 +1,3 @@
-# countdown
-# Desafio Rocketseat
 
-**Objetivo**
+# Desafio "Countdown" - Rocketseat
+
